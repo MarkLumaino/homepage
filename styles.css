@@ -90,8 +90,11 @@ body {
 
 .contact-info__block {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
+}
+
+.contact_info_container {
+    flex-direction: column;
 }
 
 .contact-info__block--center {
@@ -103,10 +106,7 @@ body {
   text-decoration: none;
   display: flex;
   justify-content: start;
-}
-
-.contact-info__item:not(:last-child) {
-  margin-bottom: 20px;
+  align-items: center;
 }
 
 .contact-info__item-icon-wrapper {
@@ -127,8 +127,8 @@ body {
 
 .contact-info__avatar {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border: 3px solid;
   border-color: var(--text-decoration-color);
