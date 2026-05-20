@@ -8,7 +8,8 @@ Building scalable applications, cloud-hosted systems, and production-ready web s
 
 <p align="center">
 <a href="mailto:marklumaino@gmail.com">Email</a> •
-<a href="https://github.com/MarkLumaino">GitHub</a>
+<a href="https://github.com/MarkLumaino">GitHub</a> •
+<a href="https://www.linkedin.com/in/mark-lumaino-ba505a235/">LinkedIn</a>
 </p>
 
 ---
@@ -63,6 +64,8 @@ Building scalable applications, cloud-hosted systems, and production-ready web s
 📧 Email: marklumaino@gmail.com
 
 🐙 GitHub: https://github.com/MarkLumaino
+
+💼 LinkedIn: https://www.linkedin.com/in/mark-lumaino-ba505a235/
 
 ---
 
