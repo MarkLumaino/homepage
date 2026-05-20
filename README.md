@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mark Lumaino</h1>
 
 <h3 align="center">
-Web / Full-Stack Developer • DevOps • Learning SOC & Cybersecurity
+Web / Full-Stack Developer • DevOps • SOC & Cybersecurity Fundamentals
 </h3>
 
 <p align="center">
@@ -18,10 +18,10 @@ Building scalable applications, cloud-hosted systems, and production-ready web s
 ## 👨‍💻 About Me
 
 - 💼 Web App Engineer / Team Lead / Full Stack Developer
-- 🚀 5+ years building production web applications
-- 🔭 Currently working on DEX systems and modern web applications
-- 🐳 Strong DevOps exposure (Docker, CI/CD, Linux deployment)
-- 🔐 Learning SOC and Cybersecurity fundamentals
+- 🚀 5+ years of experience building production web applications
+- 🐳 Strong DevOps exposure including Docker, CI/CD, and Linux deployment
+- 💻 Experience with modern web technologies and scalable systems
+- 🔐 Knowledge of SOC and Cybersecurity fundamentals
 - 🌍 Cebu, Philippines
 
 ---
@@ -55,69 +55,6 @@ Building scalable applications, cloud-hosted systems, and production-ready web s
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 💼 Professional Experience
-
-### Web App Engineer / Team Lead / Full Stack Developer
-**Rak Son OPC**
-*Aug 2024 – Present*
-
-- Built applications using **Next.js, Nuxt 3, NestJS, Laravel**
-- Designed and implemented **DEX systems**
-- Containerized applications using Docker
-- Implemented CI/CD pipelines using GitHub Actions
-- Managed Linux servers and deployments
-- Led development teams and OJT training
-
----
-
-### Software Engineer / WP Lead / DevOps
-**Human Incubator Inc.**
-*Sep 2021 – Dec 2023*
-
-- Led development of **20+ Japanese clinic websites**
-- Built custom WordPress themes
-- Managed AWS infrastructure
-- Performed SEO and performance optimization
-- Maintained OpenLiteSpeed and cPanel servers
-
----
-
-## 🚀 Featured Projects
-
-### 💳 MultiPayX
-https://multipayx.net
-
-Payment and financial platform with system integrations and scalable architecture.
-
----
-
-### 🌐 XODE Network
-https://xode.net
-
-Blockchain ecosystem and DEX-related platform.
-
----
-
-### 🧸 Hog Wild Toys
-https://hogwildtoys.com
-
-Website development, optimization, migration, and deployment.
-
----
-
-## 📚 Currently Learning
-
-```yaml
-Cybersecurity:
-   - SOC Fundamentals
-   - Threat Analysis
-   - Incident Response
-   - Secure Infrastructure
-   - Log Monitoring
-```
 
 ---
 
