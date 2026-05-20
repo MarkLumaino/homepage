@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋 I'm Mark Lumaino</h1>
-
-<h3 align="center">
+<h1>
 Web / Full-Stack Developer • DevOps • SOC & Cybersecurity Fundamentals
-</h3>
+</h1>
 
 <p align="center">
 Building scalable applications, cloud-hosted systems, and production-ready web solutions.
