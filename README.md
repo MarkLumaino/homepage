@@ -52,33 +52,9 @@ Building scalable applications, cloud-hosted systems, and production-ready web s
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=MarkLumaino&show_icons=true&theme=transparent&hide_border=true" 
-height="170"/>
-
-<img 
-src="https://streak-stats.demolab.com?user=MarkLumaino&theme=transparent&hide_border=true" 
-height="170"/>
-
-</p>
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLumaino&layout=compact&theme=transparent&hide_border=true" 
-height="170"/>
-
-</p>
 
 ---
 
