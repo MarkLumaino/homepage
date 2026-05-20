@@ -58,9 +58,9 @@ Building scalable applications, cloud-hosted systems, and production-ready web s
 
 ## 📫 Contact
 
-📧 Email: marklumaino@gmail.com
-
 📍 Cebu, Philippines
+
+📧 Email: marklumaino@gmail.com
 
 🐙 GitHub: https://github.com/MarkLumaino
 
