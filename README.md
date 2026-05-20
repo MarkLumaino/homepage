@@ -1,4 +1,4 @@
-<h3>
+<h3 align="center">
 Web / Full-Stack Developer • DevOps • SOC & Cybersecurity Fundamentals
 </h3>
 
