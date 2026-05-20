@@ -1,6 +1,6 @@
-<h1>
+<h3>
 Web / Full-Stack Developer • DevOps • SOC & Cybersecurity Fundamentals
-</h1>
+</h3>
 
 <p align="center">
 Building scalable applications, cloud-hosted systems, and production-ready web solutions.
