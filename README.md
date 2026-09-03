@@ -1,74 +1,33 @@
-<h3 align="center">
-Web / Full-Stack Developer • DevOps • SOC & Cybersecurity Fundamentals
-</h3>
+# Mark Lumaino Portfolio
 
-<p align="center">
-Building scalable applications, cloud-hosted systems, and production-ready web solutions.
-</p>
+A responsive developer portfolio for GitHub Pages, built with semantic HTML, modern CSS, and vanilla JavaScript. There are no build steps or package dependencies.
 
-<p align="center">
-<a href="mailto:marklumaino@gmail.com">Email</a> •
-<a href="https://github.com/MarkLumaino">GitHub</a> •
-<a href="https://www.linkedin.com/in/mark-lumaino-ba505a235/">LinkedIn</a>
-</p>
+## Local preview
 
----
+Open `index.html` directly in a browser, or serve the folder with any static server. For example:
 
-## 👨‍💻 About Me
+```text
+python -m http.server 8000
+```
 
-- 💼 Web App Engineer / Team Lead / Full Stack Developer
-- 🚀 5+ years of experience building production web applications
-- 🐳 Strong DevOps exposure including Docker, CI/CD, and Linux deployment
-- 💻 Experience with modern web technologies and scalable systems
-- 🔐 Knowledge of SOC and Cybersecurity fundamentals
-- 🌍 Cebu, Philippines
+Then visit `http://localhost:8000`.
 
----
+## Customize
 
-## 🛠 Tech Stack
+- Replace `assets/Mark_Lumaino_Updated_CV.docx` with a newer CV when needed, or update the Download CV link in `index.html`.
+- Replace the project links currently pointing to `#contact` with real live demo and repository URLs.
+- Replace `YOUR_USERNAME` in the Open Graph URL with the GitHub username used for Pages.
+- Add project screenshots under `assets/images/` and swap the CSS project artwork for image elements if desired.
+- Update the contact, availability, experience, and project copy to reflect current information.
 
-### Frontend
+The downloadable CV is `assets/Mark_Lumaino_Updated_CV.docx`. The existing real contact details and avatar have been retained from the original repository. No project URLs were invented.
 
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+## Deploy to GitHub Pages
 
-### Backend
+1. Push the repository to GitHub.
+2. In the repository, open **Settings > Pages**.
+3. Set the source to **Deploy from a branch**, select the default branch, and choose the `/ (root)` folder.
+4. Save and wait for GitHub Pages to publish the site.
+5. Replace the placeholder domain in the metadata once the Pages URL is known.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![REST API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
-
-### CMS
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📫 Contact
-
-📍 Cebu, Philippines
-
-📧 Email: marklumaino@gmail.com
-
-🐙 GitHub: https://github.com/MarkLumaino
-
-💼 LinkedIn: https://www.linkedin.com/in/mark-lumaino-ba505a235/
-
----
-
-<p align="center">
-Always learning • Always building
-</p>
+The root `.nojekyll` file is included so GitHub Pages serves the static files as-is. `404.html` provides a matching fallback page.
