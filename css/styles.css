@@ -11,6 +11,30 @@
   --mono: "Cascadia Mono", Consolas, monospace;
 }
 
+/* Futuristic visual treatment */
+:root { --display: "Arial Narrow", "Trebuchet MS", sans-serif; --electric: #8bc5ff; --surface: rgba(13, 29, 49, .78); }
+body { background: #050b14; }
+body::before { opacity: .7; background-size: 42px 42px; background-image: linear-gradient(rgba(139,197,255,.055) 1px, transparent 1px), linear-gradient(90deg, rgba(139,197,255,.055) 1px, transparent 1px); }
+.site-header { position: sticky; top: 0; z-index: 10; background: rgba(5,11,20,.78); backdrop-filter: blur(18px); border-bottom-color: rgba(139,197,255,.2); }
+.brand span { border-color: var(--electric); box-shadow: inset 0 0 12px rgba(99,167,255,.18), 0 0 16px rgba(99,167,255,.12); }
+.site-nav a.current::after { content: ""; position: absolute; right: 0; bottom: -9px; left: 0; height: 1px; background: var(--mint); box-shadow: 0 0 9px var(--mint); }
+h1, h2, h3 { font-family: var(--display); }
+h1, h2 { font-weight: 700; letter-spacing: -.055em; }
+.eyebrow { display: inline-flex; align-items: center; padding: 7px 10px; border: 1px solid rgba(116,230,194,.25); background: rgba(116,230,194,.05); }
+.button, .filter-button { border-radius: 2px; font-family: var(--mono); letter-spacing: .04em; }
+.button-primary { box-shadow: 0 0 22px rgba(99,167,255,.18); }
+.button-primary:hover { background: var(--electric); box-shadow: 0 0 30px rgba(99,167,255,.35); }
+.visual-grid { border-color: rgba(139,197,255,.24); background: linear-gradient(135deg, rgba(99,167,255,.17), transparent 45%), linear-gradient(rgba(139,197,255,.07) 1px, transparent 1px), linear-gradient(90deg, rgba(139,197,255,.07) 1px, transparent 1px); background-size: auto, 24px 24px, 24px 24px; }
+.profile-card { background: var(--surface); border-color: rgba(139,197,255,.45); box-shadow: 20px 20px 0 rgba(18,35,59,.38), 0 0 45px rgba(53,123,255,.12); backdrop-filter: blur(10px); }
+.floating-tag, .project-card, .skill-group { border-radius: 2px; }
+.skill-group { background: linear-gradient(145deg, rgba(13,29,49,.68), rgba(5,11,20,.85)); transition: border-color .25s ease, transform .25s ease, background .25s ease; }
+.skill-group:hover { transform: translateY(-4px); border-color: rgba(139,197,255,.5); }
+.timeline-item::before { background: var(--mint); box-shadow: 0 0 12px var(--mint); }
+.project-card { background: linear-gradient(145deg, rgba(13,29,49,.86), rgba(5,11,20,.9)); }
+.project-links { justify-content: space-between; }
+.filter-button:focus-visible, .button:focus-visible, a:focus-visible, .menu-toggle:focus-visible, .back-top:focus-visible { outline: 2px solid var(--mint); outline-offset: 4px; }
+.contact-section { background: linear-gradient(115deg, #101c36, #0b182a 56%, #141b42); }
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; color: var(--ink); background: var(--deep); font-family: var(--sans); line-height: 1.6; overflow-x: hidden; }
