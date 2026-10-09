@@ -14,13 +14,13 @@ Then visit `http://localhost:8000`.
 
 ## Customize
 
-- Replace `assets/Mark_Lumaino_Updated_CV.docx` with a newer CV when needed, or update the Download CV link in `index.html`.
+- Edit the CV in `assets/Mark_Lumaino_Updated_CV.docx`, then re-export `assets/Mark_Lumaino_Updated_CV.pdf` from Word (File → Export → Create PDF/XPS). The site links to the PDF.
 - Replace the project links currently pointing to `#contact` with real live demo and repository URLs.
 - Replace `YOUR_USERNAME` in the Open Graph URL with the GitHub username used for Pages.
 - Add project screenshots under `assets/images/` and swap the CSS project artwork for image elements if desired.
 - Update the contact, availability, experience, and project copy to reflect current information.
 
-The downloadable CV is `assets/Mark_Lumaino_Updated_CV.docx`. The existing real contact details and avatar have been retained from the original repository. No project URLs were invented.
+The downloadable CV is `assets/Mark_Lumaino_Updated_CV.pdf` (exported from the .docx beside it). `assets/portrait.jpg` is `assets/avatar.jpeg` with the jacket darkened to black; the original photo is kept unchanged. No project URLs were invented.
 
 ## Deploy to GitHub Pages
 
